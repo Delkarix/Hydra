@@ -1,0 +1,7 @@
+C:\Users\catteralldm\source\repos\Hydra\Hydra\bin\Debug\Hydra.exe.config
+C:\Users\catteralldm\source\repos\Hydra\Hydra\bin\Debug\Hydra.exe
+C:\Users\catteralldm\source\repos\Hydra\Hydra\bin\Debug\Hydra.pdb
+C:\Users\catteralldm\source\repos\Hydra\Hydra\obj\Debug\Hydra.csprojAssemblyReference.cache
+C:\Users\catteralldm\source\repos\Hydra\Hydra\obj\Debug\Hydra.csproj.CoreCompileInputs.cache
+C:\Users\catteralldm\source\repos\Hydra\Hydra\obj\Debug\Hydra.exe
+C:\Users\catteralldm\source\repos\Hydra\Hydra\obj\Debug\Hydra.pdb
